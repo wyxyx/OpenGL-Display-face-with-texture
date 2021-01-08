@@ -14,5 +14,5 @@
 #### Render a smooth surface  
 •	 render the face smoothly (with high refinement level) using the tensor of either of the representations from Project 1. (state method in Readme.txt)  
 •	 uv-map the texture correctly onto the curved surface. This must be clearly visible.  
-# Animate the face  
+#### Animate the face  
 •	 enable picking to animate the face; show a smile and a frown.  
