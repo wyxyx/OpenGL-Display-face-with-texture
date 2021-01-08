@@ -1,5 +1,5 @@
 # OpenGL-Display-face-with-texture
-
+The link of the running program: https://recordit.co/Du06hEFEGk  
 ### Set up  
 •	 Draw a 600x600 window.  
 •	 Use Perspective projection, set the field of view angle to be 45 degree, near plane to be 0.1 and far plane to be 100.  
